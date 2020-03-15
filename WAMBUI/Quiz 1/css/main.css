@@ -1,0 +1,26 @@
+body{
+	background-color: tomato;
+	color:  blue
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvEtV4c8dDDfbKmUbe1FxnN_2KEubLAGh1xbQmEz6ON-R8R09P);  
+}
+
+
+
+
+h1{
+	background-color:pink;
+}
+h2{
+	color: green;
+}
+
+p{
+	background-color: blue;
+}
+
+ol{
+	color: green;
+}      
+
+<p>Status: <span class="w3-tag">Done</span></p>
+<p>Status: <span class="w3-tag">Done</span></p>
